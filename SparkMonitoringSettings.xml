@@ -1,0 +1,16 @@
+<application>
+  <component name="SparkMonitoringSettings">
+    <option name="configs">
+      <map>
+        <entry key="Spark monitoring connection@SparkMonitoringConnections@-2237963102173465985">
+          <value>
+            <SparkConfig>
+              <option name="selectedApplicationId" value="local-1605450417142" />
+              <option name="selectedStageId" value="0" />
+            </SparkConfig>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>
