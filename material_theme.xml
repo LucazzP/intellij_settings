@@ -3,6 +3,7 @@
     <option name="compactMenus" value="true" />
     <option name="compactStatusBar" value="true" />
     <option name="compactTables" value="true" />
+    <option name="highContrast" value="true" />
     <option name="highlightColorEnabled" value="true" />
     <option name="allowDataCollection" value="true" />
     <option name="compactDropdowns" value="true" />
@@ -11,12 +12,13 @@
     <option name="isCompactMenus" value="true" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
+    <option name="isHighContrast" value="true" />
     <option name="pristineConfig" value="false" />
     <option name="useMaterialFont2" value="true" />
     <option name="settingsSelectedTab" value="5" />
-    <option name="accentColor" value="42a5f5" />
+    <option name="accentColor" value="ff9800" />
     <option name="highlightColor" value="5ae9de" />
-    <option name="selectedTheme" value="ARC_DARK" />
+    <option name="selectedTheme" value="DARKER" />
     <option name="userId" value="-3d96f2a9:175b2914029:-8000" />
     <option name="version" value="5.2.0" />
   </component>
