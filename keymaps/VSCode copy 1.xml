@@ -1,4 +1,5 @@
 <keymap version="1" name="VSCode copy 1" parent="VSCode">
+  <action id="EditorAddCaretPerSelectedLine" />
   <action id="EditorDuplicate" />
   <action id="EditorDuplicateLines">
     <keyboard-shortcut first-keystroke="shift alt down" />
@@ -6,7 +7,9 @@
   <action id="Javascript.Linters.EsLint.Fix">
     <keyboard-shortcut first-keystroke="shift alt f" />
   </action>
-  <action id="ReformatCode" />
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="shift alt g" />
+  </action>
   <action id="Scala.ShowImplicits">
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
     <keyboard-shortcut first-keystroke="shift ctrl alt add" />
@@ -19,4 +22,5 @@
   <action id="android.deploy.CodeSwap">
     <keyboard-shortcut first-keystroke="ctrl alt f10" />
   </action>
+  <action id="hg4idea.QGotoFromPatches" />
 </keymap>
