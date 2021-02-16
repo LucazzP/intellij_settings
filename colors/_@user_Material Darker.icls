@@ -3,7 +3,7 @@
     <property name="created">2021-02-10T08:47:31</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">4.1.0.19</property>
-    <property name="modified">2021-02-16T10:30:06</property>
+    <property name="modified">2021-02-16T10:46:33</property>
     <property name="originalScheme">Material Darker</property>
   </metaInfo>
   <colors>
@@ -584,7 +584,7 @@
     </option>
     <option name="DEFAULT_OPERATION_SIGN">
       <value>
-        <option name="FOREGROUND" value="89ddff" />
+        <option name="FOREGROUND" value="c792ea" />
       </value>
     </option>
     <option name="DEFAULT_PARAMETER">
