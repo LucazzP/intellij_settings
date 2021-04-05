@@ -1,14 +1,17 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="highContrast" value="true" />
+    <option name="isHighContrast" value="true" />
+    <option name="overrideAccentColor" value="false" />
     <option name="pristineConfig" value="false" />
     <option name="treeFontSizeEnabled" value="true" />
     <option name="tabFontSizeEnabled" value="true" />
     <option name="treeFontSize" value="13" />
     <option name="tabFontSize" value="13" />
-    <option name="settingsSelectedTab" value="5" />
-    <option name="accentColor" value="ff9800" />
+    <option name="settingsSelectedTab" value="2" />
+    <option name="accentColor" value="42a5f5" />
     <option name="selectedTheme" value="DARKER" />
     <option name="userId" value="-36869c90:17762d190b5:-8000" />
-    <option name="version" value="5.5.0" />
+    <option name="version" value="5.2.0" />
   </component>
 </application>
